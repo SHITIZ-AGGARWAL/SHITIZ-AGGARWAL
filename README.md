@@ -1,16 +1,18 @@
-### Hi there 👋
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm [Shitiz!](https://shitiz-aggarwal.github.io/SA-portfolio/)  <a href="https://www.linkedin.com/in/shitiz-aggarwal-920b411a6/"> <img align="right" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
 
-<!--
-**SHITIZ-AGGARWAL/SHITIZ-AGGARWAL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me 🚀
+🎓 I’m an Open-Source enthusiast & pursuing my Bachelors in Computer Science engineering </br>
+👨‍💻  I am passionate about Web Dev, Machine Learning and Android . I enjoy learning new things and helping others </br>
+
+### Experiences 
+- Completed Open source hack program by [anitab.org](https://anitab-org.github.io/events/open-source-hack/)
+- Code for Cause campus lead [CFC](https://codeforcause.org/)
+- Completed 30 days of google cloud program
+<br />
+
+![Shitiz's github stats](https://github-readme-stats.vercel.app/api?username=SHITIZ-AGGARWAL&show_icons=true&hide_border=true)
+<br />
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SHITIZ-AGGARWAL.SHITIZ-AGGARWAL)
