@@ -13,6 +13,6 @@
 - Completed 30 days of google cloud program
 <br />
 
-![Shitiz's github stats](https://github-readme-stats.vercel.app/api?username=SHITIZ-AGGARWAL&show_icons=true&theme=radical)
+![Shitiz's github stats](https://github-readme-stats.vercel.app/api?username=SHITIZ-AGGARWAL&show_icons=true&theme=highcontrast)
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SHITIZ-AGGARWAL.SHITIZ-AGGARWAL)
