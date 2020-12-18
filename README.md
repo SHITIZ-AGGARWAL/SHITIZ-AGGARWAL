@@ -10,6 +10,7 @@
 ### Experiences 
 - Completed Open source hack program by [anitab.org](https://anitab-org.github.io/events/open-source-hack/)
 - Code for Cause campus lead [CFC](https://codeforcause.org/)
+- DSC mait member and volunteer in DSC WOW event
 - Completed 30 days of google cloud program
 <br />
 
