@@ -5,7 +5,7 @@
 
 ### About Me 🚀
 🎓 I’m an Open-Source enthusiast & pursuing my Bachelors in Computer Science engineering </br>
-👨‍💻  I am passionate about Web Dev, Machine Learning and Android . I enjoy learning new things and helping others </br>
+👨‍💻  I am passionate about Web Dev, Machine Learning and Ui/Ux designing . I enjoy learning new things and helping others </br>
 
 ### Experiences 
 - Completed Open source hack program by [anitab.org](https://anitab-org.github.io/events/open-source-hack/)
