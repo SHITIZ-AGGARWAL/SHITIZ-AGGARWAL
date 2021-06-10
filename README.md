@@ -8,7 +8,8 @@
 👨‍💻  I am passionate about Web Dev, Machine Learning and Ui/Ux designing . I enjoy learning new things and helping others </br>
 
 ### Experiences 
-- Mentor at [GSSOC](https://gssoc.girlscript.tech/)
+- Co-Founder of [Code Sauce](https://github.com/Code-Sauce-Official)
+- Mentor at [GSSOC](https://gssoc.girlscript.tech/) , [LGM-SOC](https://letsgrowmore.in/soc/)
 - Working as a Ui/Ux designer at Script Foundation [SF](https://www.scriptindia.org/)
 - Designing causefolio (code for cause leads platform) [Link](https://github.com/codeforcauseorg/causefolio)
 - Code for Cause campus lead [CFC](https://codeforcause.org/)
