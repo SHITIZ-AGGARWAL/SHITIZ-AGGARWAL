@@ -9,11 +9,10 @@
 
 ### Experiences 
 - Co-Founder of [Code Sauce](https://github.com/Code-Sauce-Official)
+- Technical Lead of [Google Developers student Club MAIT](https://gdscmait.co/#/)
 - Mentor at [GSSOC](https://gssoc.girlscript.tech/) , [LGM-SOC](https://letsgrowmore.in/soc/)
-- Working as a Ui/Ux designer at Script Foundation [SF](https://www.scriptindia.org/)
-- Designing causefolio (code for cause leads platform) [Link](https://github.com/codeforcauseorg/causefolio)
-- Code for Cause campus lead [CFC](https://codeforcause.org/)
-- DSC mait member and volunteer in DSC WOW event
+- Worked as a Ui/Ux designer at Script Foundation, Simplem Solutions, pre-entrepreneur and Kylo Apps
+- Designed causefolio (code for cause leads platform) [Link](https://github.com/codeforcauseorg/causefolio)
 - Completed Open source hack program by [anitab.org](https://anitab-org.github.io/events/open-source-hack/)
 - Completed 30 days of google cloud program
 <br />
