@@ -10,6 +10,7 @@
 ### Experiences 
 - Co-Founder of [Code Sauce](https://github.com/Code-Sauce-Official)
 - Technical Lead of [Google Developers student Club MAIT](https://gdscmait.co/#/)
+- Currently working as a UX Designer in a web 3 Start-Up
 - Mentor at [GSSOC](https://gssoc.girlscript.tech/) , [LGM-SOC](https://letsgrowmore.in/soc/)
 - Worked as a Ui/Ux designer at Script Foundation, Simplem Solutions, pre-entrepreneur and Kylo Apps
 - Designed causefolio (code for cause leads platform) [Link](https://github.com/codeforcauseorg/causefolio)
